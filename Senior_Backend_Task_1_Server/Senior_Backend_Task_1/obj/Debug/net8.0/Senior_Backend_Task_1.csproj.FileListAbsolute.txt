@@ -1,0 +1,14 @@
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\bin\Debug\net8.0\Senior_Backend_Task_1.exe
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\bin\Debug\net8.0\Senior_Backend_Task_1.deps.json
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\bin\Debug\net8.0\Senior_Backend_Task_1.runtimeconfig.json
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\bin\Debug\net8.0\Senior_Backend_Task_1.dll
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\bin\Debug\net8.0\Senior_Backend_Task_1.pdb
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\obj\Debug\net8.0\Senior_Backend_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\obj\Debug\net8.0\Senior_Backend_Task_1.AssemblyInfoInputs.cache
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\obj\Debug\net8.0\Senior_Backend_Task_1.AssemblyInfo.cs
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\obj\Debug\net8.0\Senior_Backend_Task_1.csproj.CoreCompileInputs.cache
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\obj\Debug\net8.0\Senior_Backend_Task_1.dll
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\obj\Debug\net8.0\refint\Senior_Backend_Task_1.dll
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\obj\Debug\net8.0\Senior_Backend_Task_1.pdb
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\obj\Debug\net8.0\Senior_Backend_Task_1.genruntimeconfig.cache
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1\obj\Debug\net8.0\ref\Senior_Backend_Task_1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Senior_Backend_Task_1/1.0.0": {
+        "runtime": {
+          "Senior_Backend_Task_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Senior_Backend_Task_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
