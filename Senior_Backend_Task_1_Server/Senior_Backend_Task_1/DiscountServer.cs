@@ -101,12 +101,12 @@ namespace Senior_Backend_Task_1_Server
         {
             string[] parts = request.Split(' ');
 
-            if (parts.Length == 1 && parts[0] == "GENERATE")
+            if (parts.Length == 1 && String.Equals(parts[0], "GENERATE", StringComparison.OrdinalIgnoreCase))
             {
                 bool generated = GenerateDiscountCodes();
                 return generated ? "Discount Codes are Regenerated Successfully" : "There was a problem with generating discount codes";
             }
-            else if (parts.Length == 2 && parts[0] == "USE")
+            else if (parts.Length == 2 && String.Equals(parts[0], "USE", StringComparison.OrdinalIgnoreCase))
             {
                 string code = parts[1];
                 byte result = UseDiscountCode(code);

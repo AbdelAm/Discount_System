@@ -40,3 +40,4 @@ D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1_Server\Senio
 D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1_Server\Senior_Backend_Task_1\obj\Debug\net8.0\Senior_Backend_Task_1_Server.pdb
 D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1_Server\Senior_Backend_Task_1\obj\Debug\net8.0\Senior_Backend_Task_1_Server.genruntimeconfig.cache
 D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1_Server\Senior_Backend_Task_1\obj\Debug\net8.0\ref\Senior_Backend_Task_1_Server.dll
+D:\laragon\www\projects\Senior_Backend_Task_1\Senior_Backend_Task_1_Server\Senior_Backend_Task_1\obj\Debug\net8.0\Senior_Backend_Task_1_Server.sourcelink.json
